@@ -1,9 +1,24 @@
-# ReconX — Advanced Reconnaissance Tool
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()  
-[![Stars](https://img.shields.io/github/stars/mrofcodyx/reconx?style=social)]()  
-[![Issues](https://img.shields.io/github/issues/mrofcodyx/reconx)]()  
-[![Last Commit](https://img.shields.io/github/last-commit/mrofcodyx/reconx)]()  
+<h1 align="center">
+<b>ReconX — Advanced Reconnaissance Tool</b>
+</h1>
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/stars/mrofcodyx/reconx?style=social" alt="Stars">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/issues/mrofcodyx/reconx" alt="Issues">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/mrofcodyx/reconx" alt="Last Commit">
+  </a>
+</p>
+ 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac76a931-a877-48af-8af3-bfcb97edf9bd" width="300">
+</p>
 
 > **ReconX** is a CLI reconnaissance and OSINT tool written in Python.  
 > It integrates multiple passive and active enumeration techniques: whois, DNS, nmap, HTTP headers, clickjacking testing (with PoC), robots.txt, link extraction, IP geolocation, traceroute, advanced subdomain scanner, and reverse IP lookup.  
