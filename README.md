@@ -48,9 +48,8 @@ ReconX is designed for pentesters, bug bounty hunters, and OSINT enthusiasts who
 ---
 
 ## Demo
-![ReconX terminal screenshot](assets/1.png)
-
 *Short caption: ReconX running in the terminal (click to view full size).*
+![ReconX terminal screenshot](1.png)
 
 Run the tool:
 
@@ -186,5 +185,5 @@ Use ReconX only on systems you **own or are explicitly authorized to test**. Una
 ## Author
 
 - Created by **mr_ofcodyx**  
-- GitHub: [github.com/mrofcodyx/reconx](https://github.com/mrofcodyx)
+- GitHub: [@Mr_ofcodyx](https://github.com/mrofcodyx)
 
