@@ -1,6 +1,10 @@
 <h1 align="center">
 <b>ReconX — Advanced Reconnaissance Tool</b>
 </h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac76a931-a877-48af-8af3-bfcb97edf9bd" width="300">
+</p>
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
@@ -14,10 +18,6 @@
   <a href="">
     <img src="https://img.shields.io/github/last-commit/mrofcodyx/reconx" alt="Last Commit">
   </a>
-</p>
- 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ac76a931-a877-48af-8af3-bfcb97edf9bd" width="300">
 </p>
 
 > **ReconX** is a CLI reconnaissance and OSINT tool written in Python.  
